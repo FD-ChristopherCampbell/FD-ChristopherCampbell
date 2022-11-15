@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Christy, welcome to my wee Github profile. I'm a Backend Java Engineer/aspiring Software Engineering Manager working at FanDuel. I joined in 2019 and have mostly been working on our A&W integrations with Casino and Sportsbook platforms.
+I'm Christy, welcome to my wee Github profile. I'm a Software Engineering Manager working at FanDuel. I joined in 2019 and have mostly been working on our A&W integrations with Casino and Sportsbook platforms.
 
 👯 I’m looking to collaborate on anything which automates or optimises our processes around regualated releases, Observability as Code and anything which improves the developer experience of our projects and repos.
 
