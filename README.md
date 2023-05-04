@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Christy, welcome to my Github profile. I'm a Software Engineering Manager working at FanDuel working on our internal developer portal Kickoff. I joined in 2019 and was mostly been working on our A&W integrations with Casino and Sportsbook platforms until recently.
+I'm Christy, welcome to my Github profile. I'm a Software Engineer working at FanDuel working on our internal developer portal Kickoff. I joined in 2019 and was mostly been working on our A&W integrations with Casino and Sportsbook platforms until recently.
 
 👯 I’m looking to collaborate on anything which improves the developer experience of our projects and repos.
 
