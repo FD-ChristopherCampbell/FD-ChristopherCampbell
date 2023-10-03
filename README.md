@@ -4,7 +4,7 @@ I'm Christy, welcome to my Github profile. I'm a Software Engineer working at Fa
 
 👯 I’m looking to collaborate on anything which improves the developer experience of our projects and repos.
 
-💬 Ask me about Observability as Code, Github Actions, Slack bots, software templating
+💬 Ask me about Software Templating, Developer Experience and 10 percent days/collaborative hacks
 
 📫 How to reach me: @Christopher.Campbell on the FD Slack
 
